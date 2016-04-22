@@ -1,6 +1,6 @@
 {
   "name": "ruediPy",
   "tagline": "Instrument control and data processing for RUEDI gas analyzers",
-  "body": "ruediPy: instrument control and data processing for RUEDI gas analyzers\r\n\r\nruediPy is a collection of Python programs to control RUEDI instruments, and collection of GNU Octave (or Matlab) tools to load, process, and manipulate RUEDI data acquired with ruediPy.\r\n\r\nruediPy is distributed as free software under the GNU General Public License (see LICENSE.txt).\r\n\r\nCopyright (C) 2016 Matthias S. Brennwald (brennmat@gmail.com)",
+  "body": "ruediPy is a collection of Python programs to control RUEDI instruments, and collection of GNU Octave (or Matlab) tools to load, process, and manipulate RUEDI data acquired with ruediPy.\r\n\r\nruediPy is distributed as free software under the GNU General Public License (see LICENSE.txt).\r\n\r\nCopyright (C) 2016 Matthias S. Brennwald (brennmat@gmail.com)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
